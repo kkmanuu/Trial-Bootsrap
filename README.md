@@ -2,7 +2,7 @@
 
 # 📗 Table of Contents
 
-- [📖 Portfolio ](#-portfolio-a-nameabout-projecta)
+- [📖 Bootsrap ](#-bootsrap-a-nameabout-projecta)
   - [🛠 Built With ](#-built-with-a-namebuilt-witha)
     - [Tech Stack ](#tech-stack-a-nametech-stacka)
     - [Key Features ](#key-features-a-namekey-featuresa)
@@ -17,7 +17,7 @@
   - [🤝 Contributing ](#-contributing-a-namecontributinga)
   - [🙏 Acknowledgments ](#-acknowledgments-a-nameacknowledgementsa)
   - [📝 License ](#-license-a-namelicensea)
-# 📖 Portfolio <a name="about-project"></a>
+# 📖 Trial-bootsrap <a name="about-project"></a>
 
 Trial-bootsrap
 
